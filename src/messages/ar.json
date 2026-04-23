@@ -1,0 +1,219 @@
+{
+  "Header": {
+    "title": "لوحة تحكم CRM",
+
+    "languages": {
+      "title": "اللغة",
+      "labels": {
+        "en": "إنجليزي",
+        "ar": "عربي"
+      }
+    },
+
+    "notifications": {
+      "title": "الإشعارات",
+
+      "titles": {
+        "newLead": "تمت إضافة عميل محتمل جديد",
+        "campaignUpdate": "تم تحديث الحملة",
+        "closedDeal": "تم إغلاق صفقة",
+        "assignedLead": "تم تعيين عميل محتمل",
+        "updatedCampaign": "تم تحديث الحملة"
+      },
+
+      "descriptions": {
+        "leadFromFacebook": "لديك عميل محتمل جديد من فيسبوك",
+        "leadFromInstagram": "لديك عميل محتمل جديد من إنستجرام",
+        "leadFromGoogle": "لديك عميل محتمل جديد من جوجل",
+        "leadFromSearch": "لديك عميل محتمل جديد من البحث",
+        "leadFromTiktok": "لديك عميل محتمل جديد من تيك توك",
+        "leadFromEmail": "لديك عميل محتمل جديد من البريد الإلكتروني",
+        "leadFromPhone": "لديك عميل محتمل جديد من الهاتف",
+
+        "campaignUpdate": "تم تحديث حملة إعلانية",
+        "dealClosed": "تم إغلاق صفقة بنجاح",
+        "leadAssigned": "تم تعيين عميل محتمل لك"
+      }
+    },
+
+    "userMenu": {
+      "profile": "الملف الشخصي",
+      "settings": "الإعدادات",
+      "logout": "تسجيل الخروج"
+    }
+  },
+
+  "greeting": "مرحبا",
+
+  "timeRange": {
+    "yearly": "سنوي",
+    "monthly": "شهري"
+  },
+
+  "Sidebar": {
+    "dashboard": "لوحة التحكم",
+
+    "ariaLabels": {
+      "main": "الشريط الجانبي الرئيسي",
+      "logo": "Company Logo",
+      "SidebarStatus": {
+        "open": "فتح الشريط الجانبي",
+        "closed": "إغلاق الشريط الجانبي"
+      }
+    },
+
+    "main": "",
+
+    "website": "الموقع الإلكتروني",
+    "website-overview": "نظرة عامة",
+    "website-pages": "الصفحات",
+    "website-analytics": "التحليلات",
+
+    "marketing": "التسويق",
+    "advertising": "الإعلانات",
+    "ads-campaigns": "الحملات",
+    "ads-analytics": "التحليلات",
+    "ads-budget": "الميزانية",
+
+    "crm": "إدارة العملاء",
+    "crm-main": "CRM",
+    "crm-leads": "العملاء المحتملون",
+    "crm-customers": "العملاء",
+    "crm-deals": "الصفقات",
+
+    "other": "أخرى",
+    "settings": "الإعدادات",
+    "apps": "التطبيقات",
+    "help": "المساعدة والدعم"
+  },
+
+  "Dashboard": {
+    "meta": {
+      "title": "لوحة التحكم",
+      "description": "تابع العملاء والمبيعات وتحليلات العقارات بسهولة."
+    },
+
+    "slides": {
+      "yearly": {
+        "websiteAnalytics": {
+          "title": "تحليلات الموقع",
+          "subtitle": "إجمالي معدل التحويل 28.5%"
+        },
+        "leadsGrowth": {
+          "title": "نمو العملاء المحتملين",
+          "subtitle": "تابع أداء نمو العملاء على مدار السنة"
+        },
+        "salesPerformance": {
+          "title": "أداء المبيعات",
+          "subtitle": "تتبع مؤشرات وأداء المبيعات السنوي"
+        }
+      },
+      "monthly": {
+        "websiteAnalytics": {
+          "title": "تحليلات الموقع",
+          "subtitle": "معدل التحويل 12.3% هذا الشهر"
+        },
+        "leadsGrowth": {
+          "title": "نمو العملاء المحتملين",
+          "subtitle": "زيادة بنسبة 8% مقارنة بالشهر الماضي"
+        },
+        "salesPerformance": {
+          "title": "أداء المبيعات",
+          "subtitle": "نظرة على أداء وإيرادات هذا الشهر"
+        }
+      }
+    },
+    "cards": {
+      "emails": "رسائل البريد الإلكتروني",
+      "openRate": "معدل الفتح",
+      "clickRate": "معدل النقر",
+      "bounced": "رسائل مرتدة",
+
+      "totalProperties": "إجمالي العقارات",
+      "available": "متاح",
+      "rent": "مؤجر",
+      "sold": "تم البيع"
+    },
+
+    "leadStatus": {
+      "title": "حالة العملاء المحتملين",
+      "chartLabel": "العملاء المحتملون",
+      "contacted": "تم التواصل",
+      "qualified": "مؤهل",
+      "proposal": "عرض سعر",
+      "closedWon": "صفقة ناجحة",
+      "closedLost": "صفقة خاسرة"
+    },
+
+    "leadSources": {
+      "search": "بحث",
+      "tiktok": "تيك توك",
+      "social": "وسائل التواصل",
+      "email": "البريد الإلكتروني",
+      "phone": "الهاتف",
+      "facebook": "فيسبوك",
+      "google": "جوجل",
+      "referral": "إحالة"
+    },
+
+    "newLeads": {
+      "title": "عملاء جدد",
+      "viewMore": "عرض المزيد",
+      "fullName": "الاسم الكامل",
+      "leadSource": "مصدر العميل",
+      "assignTo": "تعيين إلى"
+    },
+
+    "totalSales": {
+      "title": "اجمالي المبيعات",
+      "chartLabel": "المبيعات",
+      "date": {
+        "jan": "يناير",
+        "feb": "فبراير",
+        "mar": "مارس",
+        "apr": "أبريل",
+        "may": "مايو",
+        "jun": "يونيو",
+        "jul": "يوليو",
+        "aug": "أغسطس",
+        "sep": "سبتمبر",
+        "oct": "أكتوبر",
+        "nov": "نوفمبر",
+        "dec": "ديسمبر",
+
+        "week1": "الأسبوع 1",
+        "week2": "الأسبوع 2",
+        "week3": "الأسبوع 3",
+        "week4": "الأسبوع 4"
+      }
+    },
+
+    "activities": {
+      "title": "أنشطة اليوم",
+      "tasks": {
+        "title": "المهام",
+        "contactMany": "تتواصل مع العديد من العملاء"
+      },
+      "leads": {
+        "title": "العملاء المحتملون",
+        "contactMany": "تتواصل مع العديد من العملاء المحتملين"
+      },
+
+      "names": {
+        "sara": "سارة الزناتي"
+      }
+    },
+
+    "tasksOverview": {
+      "title": "نظرة عامة على جميع المهام",
+      "monthlyReport": "التقرير الشهري",
+      "yearlyReport": "التقرير السنوي",
+      "total": "الإجمالي"
+    },
+
+    "EmailStatCard": {
+      "emails": "البريد الإلكتروني",
+      "clicked": "النقرات"
+    }
+  }
+}

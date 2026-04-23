@@ -1,0 +1,219 @@
+{
+  "Header": {
+    "title": "CRM Dashboard",
+
+    "languages": {
+      "title": "Language",
+      "labels": {
+        "en": "English",
+        "ar": "Arabic"
+      }
+    },
+
+    "notifications": {
+      "title": "Notifications",
+
+      "titles": {
+        "newLead": "New Lead Added",
+        "campaignUpdate": "Campaign Updated",
+        "closedDeal": "Deal Closed",
+        "assignedLead": "Lead Assigned",
+        "updatedCampaign": "Campaign Updated"
+      },
+
+      "descriptions": {
+        "leadFromFacebook": "You have a new lead from Facebook",
+        "leadFromInstagram": "You have a new lead from Instagram",
+        "leadFromGoogle": "You have a new lead from Google",
+        "leadFromSearch": "You have a new lead from Search",
+        "leadFromTiktok": "You have a new lead from TikTok",
+        "leadFromEmail": "You have a new lead from Email",
+        "leadFromPhone": "You have a new lead from Phone",
+
+        "campaignUpdate": "A campaign has been updated",
+        "dealClosed": "A deal has been successfully closed",
+        "leadAssigned": "A lead has been assigned to you"
+      }
+    },
+
+    "userMenu": {
+      "profile": "Profile",
+      "settings": "Settings",
+      "logout": "Logout"
+    }
+  },
+
+  "greeting": "Welcome",
+
+  "timeRange": {
+    "yearly": "Yearly",
+    "monthly": "Monthly"
+  },
+
+  "Sidebar": {
+    "dashboard": "Dashboard",
+    "ariaLabels": {
+      "main": "Sidebar main",
+      "logo": "Company Logo",
+      "SidebarStatus": {
+        "open": "Open sidebar",
+        "closed": "Close sidebar"
+      }
+    },
+
+    "main": "",
+
+    "website": "Website",
+    "website-overview": "Overview",
+    "website-pages": "Pages",
+    "website-analytics": "Analytics",
+
+    "marketing": "Marketing",
+    "advertising": "Advertising",
+    "ads-campaigns": "Campaigns",
+    "ads-analytics": "Analytics",
+    "ads-budget": "Budget",
+
+    "crm": "CRM",
+    "crm-main": "CRM",
+    "crm-leads": "Leads",
+    "crm-customers": "Customers",
+    "crm-deals": "Deals",
+
+    "other": "Other",
+    "settings": "Settings",
+    "apps": "Apps",
+    "help": "Help and Support"
+  },
+
+  "Dashboard": {
+    "meta": {
+      "title": "Dashboard",
+      "description": "Monitor your leads, sales performance, and property analytics."
+    },
+    "slides": {
+      "yearly": {
+        "websiteAnalytics": {
+          "title": "Website Analytics",
+          "subtitle": "Total 28.5% Conversion Rate"
+        },
+        "leadsGrowth": {
+          "title": "Leads Growth",
+          "subtitle": "Monitor your lead generation progress over the year"
+        },
+        "salesPerformance": {
+          "title": "Sales Performance",
+          "subtitle": "Track your yearly sales metrics and KPIs"
+        }
+      },
+      "monthly": {
+        "websiteAnalytics": {
+          "title": "Website Analytics",
+          "subtitle": "12.3% conversion rate this month"
+        },
+        "leadsGrowth": {
+          "title": "Leads Growth",
+          "subtitle": "Leads increased by 8% compared to last month"
+        },
+        "salesPerformance": {
+          "title": "Sales Performance",
+          "subtitle": "Monthly revenue trends and performance overview"
+        }
+      }
+    },
+
+    "cards": {
+      "emails": "Emails",
+      "openRate": "Open Rate",
+      "clickRate": "Click Rate",
+      "bounced": "Bounced Emails",
+
+      "totalProperties": "Total Properties",
+      "available": "Available Properties",
+      "sold": "Sold Properties",
+      "rent": "Rent Properties"
+    },
+
+    "leadStatus": {
+      "title": "Top Lead Status",
+      "chartLabel": "Leads",
+      "contacted": "Contacted",
+      "qualified": "Qualified",
+      "proposal": "Proposal",
+      "closedWon": "Closed Won",
+      "closedLost": "Closed Lost"
+    },
+
+    "leadSources": {
+      "search": "Search",
+      "tiktok": "TikTok",
+      "social": "Social",
+      "email": "Email",
+      "phone": "Phone",
+      "facebook": "Facebook",
+      "google": "Google",
+      "referral": "Referral"
+    },
+
+    "newLeads": {
+      "title": "New Leads",
+      "viewMore": "View More",
+      "fullName": "Full Name",
+      "leadSource": "Lead Source",
+      "assignTo": "Assign To"
+    },
+
+    "totalSales": {
+      "title": "Total Sales",
+      "chartLabel": "Sales",
+      "date": {
+        "jan": "Jan",
+        "feb": "Feb",
+        "mar": "Mar",
+        "apr": "Apr",
+        "may": "May",
+        "jun": "Jun",
+        "jul": "Jul",
+        "aug": "Aug",
+        "sep": "Sep",
+        "oct": "Oct",
+        "nov": "Nov",
+        "dec": "Dec",
+
+        "week1": "Week 1",
+        "week2": "Week 2",
+        "week3": "Week 3",
+        "week4": "Week 4"
+      }
+    },
+
+    "activities": {
+      "title": "Today's Activities",
+      "tasks": {
+        "title": "Tasks",
+        "contactMany": "Contact with Many leads"
+      },
+
+      "leads": {
+        "title": "Leads",
+        "contactMany": "Contact with Many leads"
+      },
+
+      "names": {
+        "sara": "Sara Elzanaty"
+      }
+    },
+
+    "tasksOverview": {
+      "title": "All Tasks Overview",
+      "monthlyReport": "Monthly Report",
+      "yearlyReport": "Yearly Report",
+      "total": "Total"
+    },
+
+    "EmailStatCard": {
+      "emails": "Emails",
+      "clicked": "Clicked"
+    }
+  }
+}
