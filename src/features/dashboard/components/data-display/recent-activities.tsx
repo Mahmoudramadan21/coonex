@@ -21,6 +21,15 @@ function RecentActivities({ activities }: { activities: Activity[] }) {
         {t("title")}
       </h3>
 
+      <div className="flex justify-between items-center mb-5">
+        <span className="text-sm text-[#3D3D3D] relative ps-4 before:content-[] before:absolute before:inset-s-0 before:top-1/2 before:-translate-y-1/2 before:w-2 before:h-2 before:rounded-full before:bg-[#E56730]">
+          {t("tasks.title")}
+        </span>
+        <span className="text-sm text-[#3D3D3D] relative ps-4 before:content-[] before:absolute before:inset-s-0 before:top-1/2 before:-translate-y-1/2 before:w-2 before:h-2 before:rounded-full before:bg-[#0077B5]">
+          {t("leads.title")}
+        </span>
+      </div>
+
       {/* Activity list */}
       {activities.map((activity) => {
         const isLead = activity.type === "lead";
