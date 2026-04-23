@@ -34,7 +34,7 @@ function NewLeadsTable({ newLeads }: { newLeads: NewLead[] }) {
             href="#"
             className="text-sm font-semibold text-blue-500 transition-colors hover:text-blue-600 sm:text-base md:text-lg"
           >
-            View More
+            {t("newLeads.viewMore")}
           </a>
         </div>
 
