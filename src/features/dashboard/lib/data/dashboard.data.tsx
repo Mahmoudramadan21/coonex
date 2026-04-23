@@ -185,7 +185,7 @@ export const dashboardData: DashboardData = {
         id: "sold",
         titleKey: "sold",
         value: 540,
-        color: "#2B2F8A",
+        color: "#E56730",
         icon: SoldPropertiesIcon,
       },
       {
